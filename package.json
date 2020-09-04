@@ -1,0 +1,72 @@
+{
+  "name": "baganstore",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.11.2",
+    "@testing-library/react": "^10.4.8",
+    "@testing-library/user-event": "^12.1.1",
+    "axios": "^0.19.2",
+    "crypto-js": "^4.0.0",
+    "env-cmd": "^10.1.0",
+    "firebase": "^7.17.2",
+    "i18next": "^19.6.3",
+    "i18next-xhr-backend": "^3.2.2",
+    "moment": "^2.27.0",
+    "moment-timezone": "^0.5.31",
+    "nanoid": "^3.1.12",
+    "node-sass": "^4.14.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-i18next": "^11.7.0",
+    "react-icons": "^3.10.0",
+    "react-id-swiper": "^4.0.0",
+    "react-image-gallery": "^1.0.8",
+    "react-image-magnify": "^2.7.4",
+    "react-loading-skeleton": "^2.1.1",
+    "react-medium-image-zoom": "^4.3.1",
+    "react-modal": "^3.11.2",
+    "react-moment": "^0.9.7",
+    "react-phone-number-input": "^3.0.25",
+    "react-redux": "^7.2.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.1",
+    "react-select": "^3.1.0",
+    "react-slick": "^0.27.4",
+    "react-sticky-el": "^2.0.5",
+    "react-tabs": "^3.1.1",
+    "react-text-loop": "^2.3.0",
+    "react-ticker": "^1.2.2",
+    "react-to-print": "^2.9.0",
+    "react-toastify": "^6.0.8",
+    "react-transition-group": "^4.4.1",
+    "redux": "^4.0.5",
+    "redux-form": "^8.3.6",
+    "redux-thunk": "^2.3.0",
+    "shortid": "^2.2.15",
+    "slick-carousel": "^1.8.1",
+    "swiper": "^6.1.1",
+    "uuid": "^8.3.0"
+  },
+  "scripts": {
+    "start": "env-cmd react-scripts start",
+    "build": "env-cmd react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
